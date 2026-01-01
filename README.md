@@ -1,2 +1,3 @@
-# qa-portfolio
-IT学習ログ
+# QA Portfolio
+
+QAポジション応募用のポートフォリオ。
